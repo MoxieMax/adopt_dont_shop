@@ -3,6 +3,8 @@
 ### Existing database design
 ![visual-schema.png](https://i.postimg.cc/0ywZgQ1W/visual-schema.png)
 
+Our Schema
+![image](https://user-images.githubusercontent.com/108768349/207730497-b5887857-f486-47cf-8dc4-0f9479884fe7.png)
 ## Learning Goals
 
 In this project, students will build upon the code in this repo to create a Pet Adoption Platform. Users will be able to apply to adopt pets, and Admins will be able to approve or reject applications and see statistics for the Shelters, Pets, and Applications in the system.
